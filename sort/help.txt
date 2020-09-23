@@ -1,0 +1,6 @@
+1. Watch all the files in root dir --> tsc -w
+2. Run the compiled JS files --> node build/filename.js
+
+or
+
+2. 
