@@ -1,0 +1,1 @@
+1. Run typescript --> ts-node filename.ts 
